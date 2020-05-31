@@ -88,3 +88,24 @@ Todos estes resultados estão presentes em [estatisticas_covid_portugal](./estat
 
 
 ## - Situação em Itália ##
+
+A 31 de janeiro de 2020 foi confirmado que a pandemia covid-19 tinha chegado a Itália quando dois turistas chineses deram positivo em Roma. Seguidamente, mais casos começaram a dar positivo, tendo começado com 16 casos confirmados na região de Lombardia a 21 de fevereiro, mais 60 a 22 de fevereiro, tendo-se registados as primeiras mortes nesse mesmo dia.
+
+No final de fevereiro, Itália era o país da União Europeia mais afetado do mundo, tendo o segundo maior número de casos positivos e de mortes.
+
+A 19 de março, Itália tornou-se no país com o maior número de mortes confirmadas devido à covid-19 tendo apenas sido ultrapassada pelos Estados Unidos a 11 de abril.
+
+Assim, criaram-se mapas para analisar o número de novos casos em três dias diferentes po região, o número total de mortes também por região e o número total de casos por província.
+
+#### 1. Novos casos positivos ####
+
+Em [Italia_NovosCasosPositivos](./Italia_NovosCasosPositivos.ipynb) foram criados três mapas referentes ao novo número de casos positivos a 24 de fevereiro de 2020 (mais ou menos no início da pandemia), a 30 de março de 2020 (quando Itália começou a atingir o pico de casos positivos) e a 29 de maio de 2020 (uma data mais atual).
+
+* Novos casos positivos 24/02/2020
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casosinicio.png"/>
+</p>
+
+
+
+
