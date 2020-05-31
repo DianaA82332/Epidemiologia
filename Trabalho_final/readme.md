@@ -14,4 +14,6 @@ Os dados relativos ao impacto da Covid-19 em Portugal foram retirados da platafo
 
 Quanto ao número de mortes, foram criados dois gráficos.
 Um primeiro em que, se compararam o número total de mortes no ano de 2019 e no ano de 2020:
-<p align="center">![total_mortes1920.png](./Imagens/total_mortes1920.png)</p>
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/total_mortes1920.png"/>
+</p>
