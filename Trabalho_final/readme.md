@@ -41,8 +41,45 @@ Com o início do estado de emergência verificou-se que, muitas empresas viram-s
 É facilmente percetível que, apenas algumas empresas tiveram de encerrar definitivamente sendo que, este número foi maior na primeira quinzena de abril. O número de empresas que encerrou temporariamente também foi maior neste período.
 Quanto ao número de empresas que se manteve em funcionamento ou produção mesmo que parcialmente foi superior na 1ª quinzena de maio.
 
-#### 3. Impacto ao nível das empresas ####
+#### 4. Impacto no preço do petróleo ####
 
+Cada vez mais tem-se visto que o preço dos combustíveis tem tido as maiores descidas dos últimos tempos. Assim, foi criado o seguinte gráfico que tem os preços do barril de  petróleo desde o ano de 2018 até 2020:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/preco_petroleo.png"/>
+</p>
 
+#### 4. Impacto no turismo ####
 
+Com as pessoas a terem de ficar em casa e uma vez que, o contacto social tem de ser reduzido, decidiu-se analisar o impacto da covid-19 no turimos, tendo-se criado dois gráficos.
 
+O primeiro relativo á proporção dos estabelecimentos com cancelamento de reservas, por região NUTS II pode ver-se de seguida:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/cancelamentos_regiao.png"/>
+</p>
+
+O segundo é relativo à proporção dos estabelecimentos com cancelamento de reservas, por segmento de estabelecimento:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/cancelamentos_estabelecimento.png"/>
+</p>
+Existiram assim, bastantes cancelamentos de reservas, principalmente na hotelaria e nas regiões autónomas da Madeira e dos Açores.
+
+#### 5. Impacto no desmprego ####
+Uma das maiores preocupações económicas é o aumento do desemprego devido à pandemia. Então, foram criados dois gráficos.
+
+O primeiro compara o número de desempregados registados nos meses de abril desde 2007 até 2020:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/desemprego_2007.png"/>
+</p>
+
+O segundo compara o número de desempregados inscritos no fim do mês em 2019 e 2020 com o número de novos desempregados inscritos ao longo do mês também nos anos de 2019 e 2020:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/desemprego1920.png"/>
+</p>
+Conclui-se assim que, o número de desempregados está a aumentar sendo que, os números de 2020 são superiores aos números de 2019.
+
+#### 6. Impacto nas vendas de veículos ####
+Como as pessoas têm de ficar cada vez mais em casa, é expectável que o número de veículos comprados tenha diminuído. Criou-se assim, o seguinte gráfico para provar isso mesmo:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/venda_veiculos.png"/>
+</p>
+Em abril de 2020 atingiu-se o número mais baixo de novas matrículas quando comparado com os restantes meses e com 2019.
