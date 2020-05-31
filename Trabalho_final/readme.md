@@ -120,7 +120,7 @@ Neste dia, não existiu nenhuma região que tivesse 0 novos casos. Sendo que, a 
 Atualmente, já existem regiões com 0 novos casos. No entanto, a região de lombardia continua a ser a mais afetada, tendo registado 350 casos neste dia.
 
 #### 2. Número total de mortes ####
-Para a criação dos mapas com o número total de mortes em Itália, utilizou-se o software QGIS, tendo-se carregado as camadas a partir das tabelas criadas no geopackage [mortes_italia](./mortes_italia.gpkg).
+Para a criação dos mapas com o número total de mortes em Itália, utilizou-se o software QGIS, tendo-se carregado as camadas a partir das tabelas criadas no geopackage [mortes_italia](./mortes_italia.gpkg). Os resultados obtidos estão em [Italia_mortes](./Italia_mortrs.ipynb).
 Foram então criados dois mapas com estilos diferentes:
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia1.png"/>
@@ -128,3 +128,15 @@ Foram então criados dois mapas com estilos diferentes:
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia2.png"/>
 </p>
+Verifica-se que, Itália já teve milhares de mortes, sendo que, só na região de Lombardia houveram cerca de 17000. Existem também outras regiões com bastantes mortes, tais como, Apulia e Emilia-Romagna.
+
+#### 3. Número total de casos por provícia ####
+Foram também criados dois mapas. O primeiro é o mapa de Itália com o nome das respetivas províncias e o segundo contém o número total de casos até ao dia 30 de maio de 2020. Os resultados obtidos estão em [Italia_casosProvincias](./Italia_casosProvincias).
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/provincias_italia.png"/>
+</p>
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/casos_provincias.png"/>
+</p>
+
+Observando todos estes resultados concluiu-se que, Itália sofreu muito com esta pandemia e continua a sofrer, tendo ainda bastantes novos casos positivos por dia.
