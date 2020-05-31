@@ -83,3 +83,8 @@ Como as pessoas têm de ficar cada vez mais em casa, é expectável que o númer
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/venda_veiculos.png"/>
 </p>
 Em abril de 2020 atingiu-se o número mais baixo de novas matrículas quando comparado com os restantes meses e com 2019.
+
+Todos estes resultados estão presentes em [estatisticas_covid_portugal](./estatisticas_covid_portugal).
+
+
+## - Situação em Itália ##
