@@ -1,6 +1,6 @@
 # Epidemiologia
 
-Este repositório contém dados sobre a Covid-19 em Portugal. 
+Este repositório contém dados sobre a Covid-19 em Portugal e em Itália. 
 
 O Geopackage [covid-pt-latest](./covid-pt-latest.gpkg) contém os dados mais recentes sobre a situação epidemiológica em Portugal e o notebook [covid](./covid.ipynb) contém ainda algumas estatísticas sobre a situação epidemiológica em Portugal.
 
