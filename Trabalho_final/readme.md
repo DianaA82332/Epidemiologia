@@ -66,7 +66,7 @@ Existiram assim, bastantes cancelamentos de reservas, principalmente na hotelari
 #### 5. Impacto no desmprego ####
 Uma das maiores preocupações económicas é o aumento do desemprego devido à pandemia. Então, foram criados dois gráficos.
 
-O primeiro compara o número de desempregados registados nos meses de abril desde 2007 até 2020:
+O primeiro compara o número de desempregados registados nos meses de abril desde 2007 até 2020: 
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/desemprego_2007.png"/>
 </p>
