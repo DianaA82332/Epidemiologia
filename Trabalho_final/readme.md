@@ -66,7 +66,7 @@ Existiram assim, bastantes cancelamentos de reservas, principalmente na hotelari
 #### 5. Impacto no desmprego ####
 Uma das maiores preocupações económicas é o aumento do desemprego devido à pandemia. Então, foram criados dois gráficos.
 
-O primeiro compara o número de desempregados registados nos meses de abril desde 2007 até 2020:
+O primeiro compara o número de desempregados registados nos meses de abril desde 2007 até 2020: 
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/desemprego_2007.png"/>
 </p>
@@ -131,7 +131,7 @@ Foram então criados dois mapas com estilos diferentes:
 Verifica-se que, Itália já teve milhares de mortes, sendo que, só na região de Lombardia houveram cerca de 17000. Existem também outras regiões com bastantes mortes, tais como, Apulia e Emilia-Romagna.
 
 #### 3. Número total de casos por provícia ####
-Foram também criados dois mapas. O primeiro é o mapa de Itália com o nome das respetivas províncias e o segundo contém o número total de casos até ao dia 30 de maio de 2020. Os resultados obtidos estão em [Italia_casosProvincias](./Italia_casosProvincias).
+Foram também criados dois mapas. O primeiro é o mapa de Itália com o nome das respetivas províncias e o segundo contém o número total de casos até ao dia 30 de maio de 2020. Os resultados obtidos estão em [Italia_casosProvincias](./Italia_casosProvincias.ipynb).
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/provincias_italia.png"/>
 </p>
@@ -141,3 +141,4 @@ Foram também criados dois mapas. O primeiro é o mapa de Itália com o nome das
 
 Observando todos estes resultados concluiu-se que, Itália sofreu muito com esta pandemia e continua a sofrer, tendo ainda bastantes novos casos positivos por dia.
  
+ Os dados de Itália foram retirados de https://github.com/pcm-dpc/COVID-19.
