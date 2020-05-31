@@ -103,7 +103,7 @@ Em [Italia_NovosCasosPositivos](./Italia_NovosCasosPositivos.ipynb) foram criado
 
 * Novos casos positivos 24/02/2020
 <p align="center">
-  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casosinicio.png"/>
+  <img width="600" height="200" src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casosinicio.png"/>
 </p>
 
 
