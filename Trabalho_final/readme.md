@@ -140,3 +140,4 @@ Foram também criados dois mapas. O primeiro é o mapa de Itália com o nome das
 </p>
 
 Observando todos estes resultados concluiu-se que, Itália sofreu muito com esta pandemia e continua a sofrer, tendo ainda bastantes novos casos positivos por dia.
+ 
