@@ -30,7 +30,7 @@ A fim de se analisarem os impactos económicos, criou-se um gráfico relativo à
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/variacao_pib.png"/>
 </p>
-Prevê-se então que a covid-19 tenha um enorme impacto do valor do PIB, prevendo-se haver a maior descida desde o ano de 2019.
+Prevê-se então que a covid-19 tenha um enorme impacto no valor do PIB, prevendo-se haver a maior descida desde o ano de 2019.
 
 #### 3. Impacto ao nível das empresas ####
 
@@ -43,16 +43,16 @@ Quanto ao número de empresas que se manteve em funcionamento ou produção mesm
 
 #### 4. Impacto no preço do petróleo ####
 
-Cada vez mais tem-se visto que o preço dos combustíveis tem tido as maiores descidas dos últimos tempos. Assim, foi criado o seguinte gráfico que tem os preços do barril de  petróleo desde o ano de 2018 até 2020:
+Cada vez mais tem-se visto que o preço dos combustíveis tem tido as maiores descidas dos últimos tempos. Assim, foi criado o seguinte gráfico que tem os preços do barril de petróleo desde o ano de 2018 até 2020:
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/preco_petroleo.png"/>
 </p>
 
 #### 4. Impacto no turismo ####
 
-Com as pessoas a terem de ficar em casa e uma vez que, o contacto social tem de ser reduzido, decidiu-se analisar o impacto da covid-19 no turimos, tendo-se criado dois gráficos.
+Com as pessoas a terem de ficar em casa e uma vez que, o contacto social tem de ser reduzido, decidiu-se analisar o impacto da covid-19 no turimo, tendo-se criado dois gráficos.
 
-O primeiro relativo á proporção dos estabelecimentos com cancelamento de reservas, por região NUTS II pode ver-se de seguida:
+O primeiro relativo à proporção de estabelecimentos com cancelamento de reservas, por região NUTS II:
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/cancelamentos_regiao.png"/>
 </p>
@@ -95,7 +95,7 @@ No final de fevereiro, Itália era o país da União Europeia mais afetado do mu
 
 A 19 de março, Itália tornou-se no país com o maior número de mortes confirmadas devido à covid-19 tendo apenas sido ultrapassada pelos Estados Unidos a 11 de abril.
 
-Assim, criaram-se mapas para analisar o número de novos casos em três dias diferentes po região, o número total de mortes também por região e o número total de casos por província.
+Assim, criaram-se mapas para analisar o número de novos casos em três dias diferentes por região, o número total de mortes também por região e o número total de casos por província.
 
 #### 1. Novos casos positivos ####
 
@@ -120,7 +120,7 @@ Neste dia, não existiu nenhuma região que tivesse 0 novos casos. Sendo que, a 
 Atualmente, já existem regiões com 0 novos casos. No entanto, a região de lombardia continua a ser a mais afetada, tendo registado 350 casos neste dia.
 
 #### 2. Número total de mortes ####
-Para a criação dos mapas com o número total de mortes em Itália, utilizou-se o software QGIS, tendo-se carregado as camadas a partir das tabelas criadas no geopackage [mortes_italia](./mortes_italia.gpkg). Os resultados obtidos estão em [Italia_mortes](./Italia_mortrs.ipynb).
+Para a criação dos mapas com o número total de mortes em Itália, utilizou-se o software QGIS, tendo-se carregado as camadas a partir das tabelas criadas no geopackage [mortes_italia](./mortes_italia.gpkg). Os resultados obtidos estão em [Italia_mortes](./Italia_mortes.ipynb).
 Foram então criados dois mapas com estilos diferentes:
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia1.png"/>
