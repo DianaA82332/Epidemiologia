@@ -99,13 +99,32 @@ Assim, criaram-se mapas para analisar o número de novos casos em três dias dif
 
 #### 1. Novos casos positivos ####
 
-Em [Italia_NovosCasosPositivos](./Italia_NovosCasosPositivos.ipynb) foram criados três mapas referentes ao novo número de casos positivos a 24 de fevereiro de 2020 (mais ou menos no início da pandemia), a 30 de março de 2020 (quando Itália começou a atingir o pico de casos positivos) e a 29 de maio de 2020 (uma data mais atual).
+Em [Italia_NovosCasosPositivos](./Italia_NovosCasosPositivos.ipynb) foram criados três mapas referentes ao novo número de casos positivos a 24 de fevereiro de 2020 (mais ou menos no início da pandemia), a 23 de março de 2020 (quando Itália começou a atingir o pico de casos) e a 29 de maio de 2020 (uma data mais atual).
 
 * Novos casos positivos 24/02/2020
 <p align="center">
-  <img width="600" height="200" src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casosinicio.png"/>
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casosinicio.png"/>
 </p>
+Algumas regiões não tinham novos casos neste dia e verifica-se que, a região de Lombardia (uma das mais afetadas) era a que continha um maior número de novos positivos.
 
+* Novos casos positivos 23/03/2020
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casos_23marco.png"/>
+</p>
+Neste dia, não existiu nenhuma região que tivesse 0 novos casos. Sendo que, a região de Lombardia continuou a ser a mais afetada.
 
+* Novos casos positivos 29/05/2020
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casos_atual.png"/>
+</p>
+Atualmente, já existem regiões com 0 novos casos. No entanto, a região de lombardia continua a ser a mais afetada, tendo registado 350 casos neste dia.
 
-
+#### 2. Número total de mortes ####
+Para a criação dos mapas com o número total de mortes em Itália, utilizou-se o software QGIS, tendo-se carregado as camadas a partir das tabelas criadas no geopackage [mortes_italia](./mortes_italia.gpkg).
+Foram então criados dois mapas com estilos diferentes:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia1.png"/>
+</p>
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia2.png"/>
+</p>
