@@ -17,3 +17,32 @@ Um primeiro em que, se compararam o número total de mortes no ano de 2019 e no 
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/total_mortes1920.png"/>
 </p>
+Verificou-se assim que, desde o início de março e até finais de abril, o número de mortes em 2020 é significativamente mais alto quando comparado com o número de mortes em 2019.
+O segundo gráfico compara as causas de morte no ano de 2019 e no ano de 2020:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/causas_mortes1920.png"/>
+</p>
+A morte devido ao covid-19 é considerada uma morte natural. Verificando o gráfico anterior, o número de mortes devido a causa natural em 2020 foi bastante superior entre o início de março e finais de abril.
+
+#### 2. Impacto a nível económico ####
+
+A fim de se analisarem os impactos económicos, criou-se um gráfico relativo à taxa de variação do PIB desde o 1.º trimestre de 2016 até ao 1.º trimestre de 2020. É de salientar que, os números relativos ao ano de 2018 são provisórios e os números de 2019 e 2020 são previsões.
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/variacao_pib.png"/>
+</p>
+Prevê-se então que a covid-19 tenha um enorme impacto do valor do PIB, prevendo-se haver a maior descida desde o ano de 2019.
+
+#### 3. Impacto ao nível das empresas ####
+
+Com o início do estado de emergência verificou-se que, muitas empresas viram-se obrigadas a parar os seus serviços. Assim, o gráfico seguinte foi criado com o objetivo de se perceber quantas empresas tiveram de fechar permanentemente, quantas se mantiveram em produção e quantas tiveram de encerrar temporariamente:
+<p align="center">
+  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/funcionamento_empresas.png"/>
+</p>
+É facilmente percetível que, apenas algumas empresas tiveram de encerrar definitivamente sendo que, este número foi maior na primeira quinzena de abril. O número de empresas que encerrou temporariamente também foi maior neste período.
+Quanto ao número de empresas que se manteve em funcionamento ou produção mesmo que parcialmente foi superior na 1ª quinzena de maio.
+
+#### 3. Impacto ao nível das empresas ####
+
+
+
+
