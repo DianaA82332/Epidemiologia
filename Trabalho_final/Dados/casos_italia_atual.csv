@@ -1,7 +1,6 @@
 data;stato;codice_regione;denominazione_regione;lat;long;ricoverati_con_sintomi;terapia_intensiva;totale_ospedalizzati;isolamento_domiciliare;totale_positivi;variazione_totale_positivi;nuovi_positivi;dimessi_guariti;deceduti;totale_casi;tamponi;casi_testati;note_it;note_en
 2020-05-29T17:00:00;ITA;13;Abruzzo;42.35122196;13.39843823;122;3;125;645;770;-54;0;2063;404;3237;73301;50043;;
 2020-05-29T17:00:00;ITA;17;Basilicata;40.63947052;15.80514834;5;0;5;28;33;-1;0;339;27;399;28909;28209;;
-2020-05-29T17:00:00;ITA;21;P.A. Bolzano;46.49933453;11.35662422;17;5;22;132;154;-3;0;2150;291;2595;64105;29680;;
 2020-05-29T17:00:00;ITA;18;Calabria;38.90597598;16.59440194;25;1;26;133;159;-11;0;902;97;1158;68131;65872;;
 2020-05-29T17:00:00;ITA;15;Campania;40.83956555;14.25084984;236;7;243;743;986;-26;10;3390;411;4787;193669;93464;;
 2020-05-29T17:00:00;ITA;8;Emilia-Romagna;44.49436681;11.3417208;429;76;505;3059;3564;-186;38;20073;4102;27739;316909;193318;;
