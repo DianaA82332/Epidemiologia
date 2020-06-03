@@ -101,40 +101,22 @@ Assim, criaram-se mapas para analisar o número de novos casos em três dias dif
 
 Em [Italia_NovosCasosPositivos](./Italia_NovosCasosPositivos.ipynb) foram criados três mapas referentes ao novo número de casos positivos a 24 de fevereiro de 2020 (mais ou menos no início da pandemia), a 23 de março de 2020 (quando Itália começou a atingir o pico de casos) e a 29 de maio de 2020 (uma data mais atual).
 
-* Novos casos positivos 24/02/2020
-<p align="center">
-  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casosinicio.png"/>
-</p>
-Algumas regiões não tinham novos casos neste dia e verifica-se que, a região de Lombardia (uma das mais afetadas) era a que continha um maior número de novos positivos.
-
 * Novos casos positivos 23/03/2020
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casos_23marco.png"/>
 </p>
 Neste dia, não existiu nenhuma região que tivesse 0 novos casos. Sendo que, a região de Lombardia continuou a ser a mais afetada.
 
-* Novos casos positivos 29/05/2020
-<p align="center">
-  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/novos_casos_atual.png"/>
-</p>
-Atualmente, já existem regiões com 0 novos casos. No entanto, a região de lombardia continua a ser a mais afetada, tendo registado 350 casos neste dia.
-
 #### 2. Número total de mortes ####
 Para a criação dos mapas com o número total de mortes em Itália, utilizou-se o software QGIS, tendo-se carregado as camadas a partir das tabelas criadas no geopackage [mortes_italia](./mortes_italia.gpkg). Os resultados obtidos estão em [Italia_mortes](./Italia_mortes.ipynb).
-Foram então criados dois mapas com estilos diferentes:
+Foram então criados dois mapas com estilos diferentes.
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia1.png"/>
-</p>
-<p align="center">
-  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/mortes_italia2.png"/>
 </p>
 Verifica-se que, Itália já teve milhares de mortes, sendo que, só na região de Lombardia houveram cerca de 17000. Existem também outras regiões com bastantes mortes, tais como, Apulia e Emilia-Romagna.
 
 #### 3. Número total de casos por provícia ####
 Foram também criados dois mapas. O primeiro é o mapa de Itália com o nome das respetivas províncias e o segundo contém o número total de casos até ao dia 30 de maio de 2020. Os resultados obtidos estão em [Italia_casosProvincias](./Italia_casosProvincias.ipynb).
-<p align="center">
-  <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/provincias_italia.png"/>
-</p>
 <p align="center">
   <img src= "https://github.com/DianaA82332/Epidemiologia/blob/master/Trabalho_final/Imagens/casos_provincias.png"/>
 </p>
